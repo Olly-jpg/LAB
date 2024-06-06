@@ -1,0 +1,36 @@
+[
+    {
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population",  "Reveals the entire map"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Clone",
+		"unitType": "Civilian",
+		"cost": 30,
+		"movement": 2,
+		"strength": 10,
+		"uniqueTo": "Civ",
+		"uniques": ["Cannot be purchased", 
+			"[+1] Movement <when above [0] [Speed Improvement]>",
+			"[+1] Movement <when above [1] [Speed Improvement]>",
+			"[+1] Movement <when above [2] [Speed Improvement]>",
+			"[+1] Movement <when above [3] [Speed Improvement]>",
+			"[+1] Movement <when above [4] [Speed Improvement]>",
+			"[+1] Movement <when above [5] [Speed Improvement]>",
+			"[+1] Movement <when above [6] [Speed Improvement]>",
+			"[+1] Movement <when above [7] [Speed Improvement]>",
+			"[+1] Movement <when above [8] [Speed Improvement]>",
+			"[+1] Movement <when above [9] [Speed Improvement]>",
+			"[+1] Movement <when above [10] [Speed Improvement]>",
+
+			"[+20]% Strength <when below [1] [Strength Improvement]>"
+
+			
+		]
+	}
+]

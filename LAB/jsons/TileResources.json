@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Speed Improvement",
+        "resourceType": "Strategic",
+        "uniques": ["Will not be displayed in Civilopedia", "Stockpiled", "Cannot be traded"]
+    },
+    {
+        "name": "Strength Improvement",
+        "resourceType": "Strategic",
+        "uniques": ["Will not be displayed in Civilopedia", "Stockpiled", "Cannot be traded"]
+    }
+]
