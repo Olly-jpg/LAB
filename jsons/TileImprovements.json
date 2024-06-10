@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Wedding Cake",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
+		"turnsToBuild": 7,
+		"uniques": ["Unpillagable", "[+1 Happiness]", "Tile provides yield without assigned population"]
+	},
+	{
+		"name": "Croquembouche",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow"],
+		"turnsToBuild": 7,
+		"uniques": ["Unpillagable", "[+1 Happiness]", "Tile provides yield without assigned population"]
+	}
+]
